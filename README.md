@@ -1,2 +1,2 @@
 # zero
-for zero web school git courses 
+for zero web school git course
